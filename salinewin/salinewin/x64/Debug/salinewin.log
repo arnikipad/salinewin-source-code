@@ -1,0 +1,12 @@
+﻿  salinewin.cpp
+C:\Users\adriel\Downloads\salinewin.exe source code\salinewin\salinewin\salinewin.cpp(8,9): warning C4005: 'M_PI': macro redefinition
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_math_defines.h(28,9):
+      see previous definition of 'M_PI'
+  
+C:\Users\adriel\Downloads\salinewin.exe source code\salinewin\salinewin\salinewin.cpp(25,7): warning C4552: '<': result of expression not used
+C:\Users\adriel\Downloads\salinewin.exe source code\salinewin\salinewin\salinewin.cpp(35,10): warning C4552: '<': result of expression not used
+C:\Users\adriel\Downloads\salinewin.exe source code\salinewin\salinewin\salinewin.cpp(40,10): warning C4552: '<': result of expression not used
+C:\Users\adriel\Downloads\salinewin.exe source code\salinewin\salinewin\salinewin.cpp(238,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\adriel\Downloads\salinewin.exe source code\salinewin\salinewin\salinewin.cpp(239,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\adriel\Downloads\salinewin.exe source code\salinewin\salinewin\salinewin.cpp(239,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\adriel\Downloads\salinewin.exe source code\salinewin\salinewin\salinewin.cpp(49,1): warning C4715: 'Hue': not all control paths return a value
