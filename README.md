@@ -14,6 +14,20 @@
 
 This seasonal notice is an informational update for the repository. Development and source-code safety guidance remain unchanged.
 
+## 📦 Archive Status
+
+**Archive is allowed.**
+
+This repository may be preserved as a historical source-code archive. Archiving means the existing source, documentation, and version history can remain available for reference while active development is paused or ended.
+
+- **Archive:** Allowed
+- **Source history:** Preserved
+- **Future changes:** Optional
+- **Safety guidance:** Remains in effect
+- **Repository access:** Existing GitHub access rules still apply
+
+Archival status does not make the code safe to build or execute. Review all source code before using it.
+
 ## Repository status
 
 - **Repository:** `arnikipad/salinewin-source-code`
@@ -111,6 +125,7 @@ The repository is provided for educational, research, and development purposes. 
 
 ---
 
-**Status:** Source-code archive / security-research project  \
-**Season:** 🍂 Autumn 2026 — Coming Soon  \
+**Status:** Source-code archive / security-research project  
+**Archive:** 📦 Allowed  
+**Season:** 🍂 Autumn 2026 — Coming Soon  
 **Safety:** Review before build or execution
