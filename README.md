@@ -4,13 +4,22 @@
 >
 > This repository contains the source tree for **salinewin** and a separate **salinewin-safety** project. Some components are low-level Windows code and may interact with disk or boot-related functionality. Treat the repository as untrusted code and do not build or execute it on a production machine.
 
+## 🍂 Autumn Season Coming
+
+**Autumn 2026 is coming. 🍁**
+
+> 🍂 **Autumn Season 2026 — Coming Soon**  
+> 🌅 September 23, 2026  
+> 🍁 A new season, a new chapter.
+
+This seasonal notice is an informational update for the repository. Development and source-code safety guidance remain unchanged.
+
 ## Repository status
 
 - **Repository:** `arnikipad/salinewin-source-code`
 - **Branch:** `main`
 - **Purpose:** Source-code archive and research reference
 - **Platform:** Windows / Visual Studio project files
-- **Current repository structure:** 3 commits
 - **Public repository:** Yes
 
 ## Projects
@@ -102,5 +111,6 @@ The repository is provided for educational, research, and development purposes. 
 
 ---
 
-**Status:** Source-code archive / security-research project  
+**Status:** Source-code archive / security-research project  \
+**Season:** 🍂 Autumn 2026 — Coming Soon  \
 **Safety:** Review before build or execution
